@@ -13,5 +13,5 @@ jobs:
         with:
           url: ${{ secrets.URL }}
           user: ${{ secrets.USER }}
-          token: ${{ secrets.TOKEN}}
+          token: ${{ secrets.JENKINS_API_TOKEN_11354FB4ADB36192D167D39D895C2D740E}}
           job: ${{ secrets.JOBS }}
